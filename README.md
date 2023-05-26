@@ -25,5 +25,5 @@ Left to right, they are ordered from what I enjoy the most to what I disgust the
 Contact
 --------------------------------
 
-If, one day, you want to say hi to this random guy, you can contact me at: contact at balrog dot anonaddy dot com.
+If, one day, you want to say hi to this random guy, you can contact me at: balrog at anonaddy dot com.
 
